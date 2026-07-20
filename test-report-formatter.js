@@ -1,0 +1,28 @@
+
+console.log("==========================================");
+console.log("              LOGIN TEST SUITE            ");
+console.log("==========================================");
+console.log("                                          ");
+console.log("Test 1: Login with correct password ");
+console.log("Status: PASSED");
+console.log("");
+console.log("Test 2: Login with wrong password");
+console.log("Status: FAILED");
+console.log("");
+console.log("Test 3: Login with empty password");
+console.log("Status: FAILED");
+console.log("");
+console.log("Test 4: Login with special characters in username");
+console.log("Status: PASSED");
+console.log("");
+console.log("Test 5: Remember me checkbox functionality");
+console.log("Status: SKIPPED");
+console.log("");
+console.log("==========================================");
+console.log("               TEST SUMMARY           ");
+console.log("==========================================");
+console.log("Total Tests: 5");
+console.log("✓ Test PASSED: 2");
+console.log("✗ Test FAILED: 2");
+console.log("⏭ Test SKIPPED: 1");
+console.log("==========================================");
