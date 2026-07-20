@@ -1,0 +1,23 @@
+console.log("==========================================");
+console.log("             Bug Report                    ");
+console.log("==========================================");
+console.log("");
+console.log("Bug ID : 001");
+console.log("");
+console.log("====Title : User Getting Error while Clicking on Login Button=====");
+console.log("");
+console.log("==========Steps to reproduce========== ");
+console.log("Step 1. Open the application using the URL https://example.com");
+console.log("Ste 2. Enter valid username and password");
+console.log("Ste 3. Click on the Login button");
+console.log("Ste 4. Observe the error message displayed on the screen");
+console.log("");
+console.log("==========Expected Result========== ");
+console.log("User should be able to login successfully without any error");
+console.log("");
+console.log("==========Actual Result========== ");
+console.log("User is getting an error message while clicking on the Login button");
+console.log("");
+console.log("==========Severity========== ");
+console.log("High");
+

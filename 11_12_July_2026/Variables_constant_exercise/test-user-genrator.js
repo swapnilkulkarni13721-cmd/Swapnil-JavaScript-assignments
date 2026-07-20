@@ -1,0 +1,42 @@
+let user1FirstName = "Swapnil";
+let user1LastName = "Kulkarni";
+let user1Email = "swapnil.Kulkarni@example.com";
+let user1Password = "Swapnil@123";
+let user2FirstName = "John";
+let user2LastName = "Doe";
+let user2Email = "john.doe@test.com";
+let user2Password = "John@123";
+let user3FirstName = "Jane";
+let user3LastName = "Smith";
+let user3Email = "jane.smith@test.com";
+let user3Password = "Jane@123";
+
+console.log("========================================");
+console.log("          TEST USER DATABASE         ");
+console.log("========================================");
+console.log("");
+console.log("");
+console.log("User 1:");
+console.log("--------------------------------");
+console.log("Name: " + user1FirstName + " " + user1LastName);
+console.log("Email: " + user1Email);                          
+console.log("Password: " + user1Password);
+console.log("");
+console.log("User 2:");
+console.log("--------------------------------");
+console.log("Name: " + user2FirstName + " " + user2LastName);
+console.log("Email: " + user2Email);                        
+console.log("Password: " + user2Password);
+console.log("");
+console.log("User 3:");
+console.log("--------------------------------");
+console.log("Name: " + user3FirstName + " " + user3LastName);
+console.log("Email: " + user3Email);
+console.log("Password: " + user3Password);
+console.log("");
+console.log("");
+console.log("========================================");
+console.log("          Total Users: 3       ");
+console.log("========================================");
+
+
